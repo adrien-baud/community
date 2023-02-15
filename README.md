@@ -9,7 +9,7 @@ Puis créez une pull request. Celle-ci sera automatiquement analysée, puis sera
 # Actualiser ses informations!
 Vous avez fini un projet et vous voulez mettre vos profil à jour ? Excellente idée ! Forkez le repo, modifiez vos informations et faites une pull request. **Ne modifiez pas vos informations dans le projet que vous avez forké au début de votre formation**. En effet, plusieurs étudiant-e-s nous ont rejoint depuis et vos modifications pourraient tout simplement les effacer. Ce serait dommage, n'est-ce pas ?
 
-# Pour les téméraires qui ont déjà installé Python et VirtualEnv
+# Pour les téméraires qui ont déjà installé Python et VirtualEn
 - Lancez un environnement virtuel.
 - Lancez `pip install -r requirements.txt`
 - Générez les fichiers : `pelican -r`
